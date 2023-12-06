@@ -17,7 +17,7 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  kr
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 僞聖僞獸
@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               의지없는 성자와 실패한 짐승.
 
 # A list of keywords for your blog
 keywords:              []
@@ -49,11 +49,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             새로운 이야기
     url:               /example/
-  - title:             Documentation
+  - title:             기본 정보보
     url:               /docs/
-  - title:             About
+  - title:             지나온 이야기
     url:               /about/
 
 # Add links to the footer.
