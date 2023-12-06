@@ -50,11 +50,11 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             스토리
-    url:               /example/
+    url:               /story/
   - title:             프로필
-    url:               /docs/
+    url:               /profile/
   - title:             연성
-    url:               /about/
+    url:               /newstory/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -359,11 +359,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
+social:
 #   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+   links:
+     - https://twitter.com/Nirvana_YUME
+
 
 
 # Plugin Configs
